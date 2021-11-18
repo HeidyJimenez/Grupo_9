@@ -1,7 +1,14 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+const calcularDepreciacionNIIF = (precioInicial,
+                                  precioFinal,
+                                  vidaUtil,
+                                  numeroPeriodoAconsultar) => {
+}
 
+const calcularDepreciacionNIIFEnDolares = (precioInicial,
+                                           precioFinal,
+                                           vidaUtil,
+                                           numeroPeriodoAconsultar) => {
+}
 
+module.exports.calcularDepreciacionNIIF = calcularDepreciacionNIIF;
+module.exports.calcularDepreciacionNIIFEnDolares = calcularDepreciacionNIIFEnDolares;
